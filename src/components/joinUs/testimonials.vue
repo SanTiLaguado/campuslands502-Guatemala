@@ -14,7 +14,6 @@
                     <img src="/src/assets/img/campers/camper1.png" alt="" class="w-[340px]">
                 </div>
                 <div class="testimonial-info relative my-auto ms-20 max-w-[400px]">
-                    <img src="'/src/assets/img/quote.svg" alt="" class="absolute top-[-31px] left-[-90px] w-[115px]">
                     <div class="flex flex-col">
                         <p class="gradient-text text-4xl mb-1">Yuli Stefany Sánchez</p>
                         <p class="text-white f-bold mb-4">Desarrolladora Frontend en GBP</p>
